@@ -1,0 +1,14 @@
+{
+  "trails": [
+    {
+      "name": "",
+      "difficulty": "",
+      "id": 1
+    },
+    {
+      "name": "Blue Lakes trail",
+      "difficulty": "Difficult",
+      "id": 2
+    }
+  ]
+}
